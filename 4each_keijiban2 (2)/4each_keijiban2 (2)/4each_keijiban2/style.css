@@ -1,0 +1,89 @@
+.gazo img{width:200px;
+           height:80px;}
+
+.top{width:100%;
+     height:50px;
+     background-color:black;
+     position:absolute;
+     left:0px;
+}
+
+.top ul{color:white;
+        list-style:none;
+}
+
+.top ul li{float:left;
+           margin-right:40px;
+           font-size:15px;
+}
+
+h1{margin-top:80px;
+   margin-left:5px;
+   border-left:5px solid black;
+   border-bottom:1px solid black;
+   width:800px;
+}
+
+form{display:inline-block;
+     width:800px;
+     height:500px;
+     margin-left:5px;
+     margin-bottom:20px;
+     border:5px solid lightgray;
+     background-color:#f2f2f2;
+     border-radius:10px;
+}
+
+form h2{margin-left:5px;
+        border-left:5px solid red;
+}
+
+.text{margin-left:5px;
+}
+
+.toukou{color:white;
+        background-color:darkgray;
+}
+
+.title2{width:800px;
+       height:200px;
+       border:5px solid lightgray;
+       border-radius:10px;
+       margin-left:5px;
+       margin-top:10px;
+       background-color:#f2f2f2;
+}
+
+.title2 h2{border-bottom:1px solid lightgray;
+}
+
+left{float:left;
+}
+
+right{display:inline-block;
+      margin-top:100px;
+      margin-left:30px;
+}
+
+.link h3{border-bottom:2px dotted black;
+}
+
+.link ul{list-style:none;
+}
+
+footer{clear:both;
+    
+}
+
+.sita{display:inline-block;
+      width:100%;
+      height:30px;
+      font-size:10px;
+      background-color:black;
+      color:white;
+      text-align:center;
+      position:absolute;
+      left:0px;
+      margin-top:40px;
+      line-height:30px;
+      }

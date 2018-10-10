@@ -7,7 +7,7 @@ use logindb;
 create table user(
 id int,
 user_name varchar(255),
-pasword varchar(255)
+password varchar(255)
 );
 
 insert into user values

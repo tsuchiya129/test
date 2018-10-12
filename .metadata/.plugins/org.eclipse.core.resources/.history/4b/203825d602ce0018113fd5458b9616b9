@@ -1,0 +1,14 @@
+package com.internousdev.webproj.action;
+
+import com.opensymphony.xwor2.ActionSupport;
+
+public class WelcomeAction {
+
+	public class WelcomeAction extends ActionSupport {
+		public String execute(){
+			return SUCCESS;
+		}
+
+	}
+
+}

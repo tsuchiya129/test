@@ -1,0 +1,11 @@
+package com.internousdev.webproj.action;
+
+import opensymphony.xwork2.ActionSupport;
+
+public class InqueryAction extends ActionSupport{
+	public String execute(){
+		return SUCCESS;
+
+	}
+
+}

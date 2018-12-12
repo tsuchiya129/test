@@ -6,6 +6,9 @@ public class Capsule {
 		Person taro=new Person("山田太郎",20);
 		System.out.println(taro.getName());
 		System.out.println(taro.getAge());
+		taro.setName("花子");
+		System.out.println(taro.getName());
+
 //get○○()とすることでPrivateから引いてこれるようになる
 	}
 }

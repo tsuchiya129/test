@@ -7,16 +7,10 @@ public class Mp3Player {
 		System.out.println("停止");
 	}
 	public void next(){
-		System.out.println("次へ");
+		System.out.println("次の曲");
 	}
 	public void back(){
-		System.out.println("戻る");
-	}
-
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
+		System.out.println("前の曲");
 	}
 
 }

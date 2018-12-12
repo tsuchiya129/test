@@ -10,10 +10,4 @@ public class Robot {
 	public void run(){
 		System.out.println(this.name+"が走る");
 	}
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
-	}
-
 }

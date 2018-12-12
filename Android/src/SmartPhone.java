@@ -13,11 +13,4 @@ public class SmartPhone extends Mp3Player{
 		System.out.println("インターネット");
 	}
 
-
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-
-	}
-
 }

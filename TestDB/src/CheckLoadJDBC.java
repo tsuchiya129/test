@@ -3,7 +3,6 @@ public class CheckLoadJDBC {
 
 	public static void main(String[] args) throws
 	InstantiationException,IllegalAccessException{
-		// TODO 自動生成されたメソッド・スタブ
 		String msg="";
 
 		try{
@@ -14,5 +13,4 @@ public class CheckLoadJDBC {
 			}
 		    System.out.println(msg);
 	}
-
 }

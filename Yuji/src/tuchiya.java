@@ -1,8 +1,11 @@
 public class tuchiya{
-	public static void main(String[]args){
-		int[]score={20,30,40,50,60};
-		for(int value:score){
-			System.out.println(value);
+	public static void printArray(int[]array){
+		for(int element:array){
+			System.out.println(element);
 		}
+	}
+	public static void main(String[]args){
+		int[]array={1,2,3};
+		printArray(array);
 	}
 }

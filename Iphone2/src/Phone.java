@@ -25,6 +25,4 @@ public class Phone {
 	public void internet(){
 		System.out.println("インターネット");
 	}
-
-
 }

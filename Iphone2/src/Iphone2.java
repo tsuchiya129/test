@@ -12,9 +12,6 @@ public class Iphone2 {
 		iphone2.mail();
 		iphone2.photo();
 		iphone2.internet();
-		
-
-
 	}
 
 }

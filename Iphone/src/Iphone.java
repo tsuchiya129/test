@@ -11,7 +11,6 @@ public class Iphone {
 		iphone.mail();
 		iphone.photo();
 		iphone.internet();
-		
 	}
 
 }

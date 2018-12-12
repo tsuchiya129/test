@@ -18,11 +18,11 @@ public String execute()throws SQLException{
 	if(name.equals(dto.getName())){
 		if(password.equals(dto.getPassword())){
 		ret=SUCCESS;
-}
+    }
 	}
 	return ret;
-
 	}
+
 	public String getName(){
 		return name;
 	}
@@ -35,4 +35,4 @@ public String execute()throws SQLException{
 	public void setPassword(String password){
 		this.password=password;
 	}
-	}
+}
